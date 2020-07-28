@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-alertdialog:3.0.0-dev-008@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a4f5e2252d93919039c2ffd972f7d3a/jetified-splitties-alertdialog-3.0.0-dev-008/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a4f5e2252d93919039c2ffd972f7d3a/jetified-splitties-alertdialog-3.0.0-dev-008/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a4f5e2252d93919039c2ffd972f7d3a/jetified-splitties-alertdialog-3.0.0-dev-008/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-alertdialog/3.0.0-dev-008/803ecd4eb70370b48b1201d57d014fbcea35fd79/splitties-alertdialog-3.0.0-dev-008-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
